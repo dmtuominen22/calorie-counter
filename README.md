@@ -22,6 +22,8 @@ link to my Portfolio
 https://github.com/dmtuominen22/dmtuominen22.github.io
 
 
+
+
 ## Screenshot
 ![Screenshot](./public/img/screenshots/001.jpg)
 
@@ -69,10 +71,10 @@ https://github.com/dmtuominen22/dmtuominen22.github.io
 	$ npm start
 
 ## Contributing to Calorie Tracker
-Please follow contribution guidelines at the [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) to contribute to Employee Tracker.
+Please follow contribution guidelines at the  [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) to contribute to Employee Tracker.
 
 ## Tests
-    There are no tests available for this application
+    There are no tests available for this application.
 
 ## Questions
 Contact us at the following:
