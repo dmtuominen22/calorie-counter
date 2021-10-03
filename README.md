@@ -16,7 +16,7 @@ An application that stores your daily caloric intake and tracks your progress ag
 
 View the application in action 
 Deployed to Heroku
-https://pacific-dawn-94433.herokuapp.com/
+https://radiant-hollows-07649.herokuapp.com/
 
 link to my Portfolio
 https://github.com/dmtuominen22/dmtuominen22.github.io
