@@ -1,4 +1,4 @@
-# Tech Blog
+# Calorie Tracker
 [![License: GNU GPL v3](https://img.shields.io/badge/License-GNU%20GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Table of Contents
@@ -71,7 +71,7 @@ https://github.com/dmtuominen22/dmtuominen22.github.io
 	$ npm start
 
 ## Contributing to Calorie Tracker
-Please follow contribution guidelines at the  [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) to contribute to Employee Tracker.
+Please follow contribution guidelines at the  [Contributor Covenant](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) to contribute to Calorie Tracker.
 
 ## Tests
     There are no tests available for this application.
